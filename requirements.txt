@@ -1,0 +1,4 @@
+pdfminer==20140328
+pymongo==2.6.2
+python-slugify==0.0.7
+termcolor==1.1.0
